@@ -1,0 +1,1 @@
+Checkout page for the Adyen hackathon
