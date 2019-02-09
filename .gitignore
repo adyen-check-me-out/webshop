@@ -1,2 +1,4 @@
 .env
 __pycache__
+*.codekit3
+.DS_Store
